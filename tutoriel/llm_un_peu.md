@@ -1,16 +1,17 @@
  
  # article notion
  
- https://chateau-des-robots.notion.site/8860f5dbd724438180b168f5e3b815b0?v=7a8dfa73855b47548a8d87051b6d8981&p=e73a3f749d254337adc8d923cb3811de&pm=s
+
 
  # LLM un peu, beaucoup, passionément, à la folie…
 
+
+[notion]( https://chateau-des-robots.notion.site/8860f5dbd724438180b168f5e3b815b0?v=7a8dfa73855b47548a8d87051b6d8981&p=e73a3f749d254337adc8d923cb3811de&pm=s)
+[github](https://github.com/scenaristeur/llm_un_peu/blob/main/tutoriel/llm_un_peu.md)
 > https://dev.to/
-linkedin
+[linkedin](https://www.linkedin.com/feed/update/urn:li:activity:7154905127915597824/)
 medium
 blogspot
-notion
-github
 partager sur twitter instagram facebook
 > 
 
